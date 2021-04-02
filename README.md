@@ -1,8 +1,11 @@
 # kaggle-RFCX-competition
 Rainforest Connection Species Audio Detection - top 4 solution code
 
-# rcsad
-Rainforest Connection Species Audio Detection
+
+Our team  won gold medal (4th place) on data science competition at Kaggle: https://www.kaggle.com/c/rfcx-species-audio-detection 
+The solution write up is at https://www.kaggle.com/c/rfcx-species-audio-detection/discussion/220342
+
+I'd like to thank my teammates, Rainforest Connection and Kaggle for this interesting and tricky challenge!
 
 
 
